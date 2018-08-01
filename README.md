@@ -1,5 +1,6 @@
 # c++ programs
 some c++ programs..
-*Class & Objects,
+*Classes & Objects,
+*Friend Function,
 *Nested Class,
 *Constructor
