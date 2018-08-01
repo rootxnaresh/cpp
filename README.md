@@ -1,2 +1,5 @@
 # c++ programs
-In this repository I am going to share some c++ programs..
+some c++ programs..
+*Class & Objects,
+*Nested Class,
+*Constructor
